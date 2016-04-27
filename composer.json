@@ -1,5 +1,5 @@
 {
-    "name": "shirase/yii2-pjax-ex",
+    "name": "shirase55/yii2-pjax-ex",
     "type": "yii2-extension",
     "require": {
         "php": ">=5.4.0"
